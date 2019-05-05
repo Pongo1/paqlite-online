@@ -1,0 +1,6 @@
+{
+    "editor.fontFamily": "Ubuntu Mono,'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 24,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+}
